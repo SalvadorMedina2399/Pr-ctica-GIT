@@ -1,4 +1,4 @@
-GitHub:
+GITHUB:
 
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. 
 
